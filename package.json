@@ -1,0 +1,16 @@
+{
+  "name": "game_project",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe full stack web game.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robel Birkneh",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9"
+  }
+}
